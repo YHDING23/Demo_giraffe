@@ -1,0 +1,11 @@
+torch == 1.7.0
+torchvision
+tensorboard
+pyyaml
+lmdb
+kornia
+scipy == 1.5.2
+tqdm
+imageio
+imageio-ffmpeg
+opencv-python
